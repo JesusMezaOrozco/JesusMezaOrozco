@@ -7,7 +7,7 @@ Now, I work with different technologies to give the best solutions like a develo
 1. Node JS and NPM like a package manager. ✔️
 2. Next JS like a framework using server side rendering. ✔️
 3. React JS library and Angular. ✔️
-4. Material UI adn Bootstrap frameworks. ✔️
+4. Material UI and Bootstrap frameworks. ✔️
 5. Git, Workflows like SVN, Featuring, Gitflow, Forking. ✔️
 6. Graphic design implementation, using global standards for web and mobile experience. ✔️
 7. Services integrations inside CLIENT-SERVER technology infraestructure. ✔️
