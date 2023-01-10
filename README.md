@@ -1,6 +1,6 @@
 # Hello to Everyone!
 
-I'm an Electronic Engineer and a Web Applications Developer, actually I'm working like a Front End Developer in [ 3DVES ](https://www.3dves.com/index.php/en/) 👨‍💻 and everyday I keep improving my skills like a professional 🚀🚀.
+I'm an Electronic Engineer and a Web Applications Developer,👨💻 and everyday I keep improving my skills like a professional 🚀🚀.
 
 Now, I work with different technologies to give the best solutions like a developer:
 
